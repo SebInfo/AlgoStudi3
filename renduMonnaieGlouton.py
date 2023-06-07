@@ -17,4 +17,4 @@ def renduMonnaie(valeurs, sommeARendre):
     return liste
 nonCanonique = [1,3,4]
 euro = [1,2,5,10,20,50,100,200,500]
-print(renduMonnaie(nonCanonique,6))
+print(renduMonnaie(euro,123))
